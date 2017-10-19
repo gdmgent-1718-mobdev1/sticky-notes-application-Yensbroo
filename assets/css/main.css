@@ -1,0 +1,18 @@
+.stickyContent {
+    width: 1200px;
+}
+
+
+.newSticky {
+    width: 260px;
+    height: 290px;
+    float: left;
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.remove {
+    float: right;
+}
